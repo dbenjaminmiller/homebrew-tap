@@ -5,7 +5,7 @@ class ScantailorAdvanced < Formula
   sha256 "db41c3a1ba0ecfc00a40a4efe2bcc9d2abb71ecb77fdc873ae6553b07a228370"
   license "GPL-3.0"
 
-  head "https://github.com/pablogventura/scantailor-advanced.git", branch: "fix/issue-113-deskew-oblique-independent"
+  head "https://github.com/ScanTailor-Advanced/scantailor-advanced.git"
 
 
 
