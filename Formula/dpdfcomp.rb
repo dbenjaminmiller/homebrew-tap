@@ -1,8 +1,8 @@
 class Dpdfcomp < Formula
   desc "Compress PDF fonts and images"
   homepage "https://github.com/dbenjaminmiller/dpdfcomp"
-  url "https://github.com/dbenjaminmiller/dpdfcomp/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "f7680d129153b69f7fec7bb691d61eda70a76ca4c09e96ab981224a13ee6d248"
+  url "https://github.com/dbenjaminmiller/dpdfcomp/archive/refs/tags/v1.1.tar.gz"
+  sha256 "69e800e45a31586a3d5ac8feade2751906fbe8d8d6c795c12bc7d19901174b8c"
   license "Apache-2.0"
 
   depends_on "cmake" => :build
