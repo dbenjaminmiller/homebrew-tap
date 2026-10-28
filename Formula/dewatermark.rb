@@ -1,8 +1,8 @@
 class Dewatermark < Formula
   desc "Remove a translucent watermark shared by a set of page images"
   homepage "https://github.com/dbenjaminmiller/dewatermark"
-  url "https://github.com/dbenjaminmiller/dewatermark/archive/refs/tags/v1.0.tar.gz"
-  sha256 "2aec8a136e90a05648adb36447c92c2cd95f922365fb89acdb858683ea0afea6"
+  url "https://github.com/dbenjaminmiller/dewatermark/archive/refs/tags/v1.1.tar.gz"
+  sha256 "f04de8f844854c74d8e6a70a24c992446d0240ad2e6617218069046c5e0f5ad2"
   license "0BSD"
 
   depends_on "pkgconf" => :build
